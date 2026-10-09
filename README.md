@@ -101,4 +101,3 @@ Python, pandas, NumPy, scikit-learn, statsmodels, matplotlib, seaborn
 └── README.md
 ```
 
-The raw CSV files are not included; download them from Kaggle (see Dataset).
